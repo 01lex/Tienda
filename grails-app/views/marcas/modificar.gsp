@@ -182,7 +182,14 @@
     </div>
     <!-- end wrapper -->
     <!-- Core Scripts - Include with every page -->
-
+    <asset:javascript src="jquery-1.10.2.js"/>
+    <asset:javascript src="bootstrap.min.js"/>
+    <asset:javascript src="jquery.metisMenu.js"/>
+    <asset:javascript src="pace.js"/>
+    <asset:javascript src="siminta.js"/>
+    <asset:javascript src="raphael-2.1.0.min.js"/>
+    <asset:javascript src="morris.js"/>
+    <asset:javascript src="dashboard-demo.js"/>
 
 </body>
 </html>
