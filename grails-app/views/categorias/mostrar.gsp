@@ -6,6 +6,14 @@
     <title>Principal | CATEGORIAS</title>
     <!-- Core CSS - Include with every page -->
 
+    <asset:stylesheet src="bootstrap1.css"/>
+    <asset:stylesheet src="font-awesome.css"/>
+    <asset:stylesheet src="pace-theme-big-counter.css"/>
+    <asset:stylesheet src="style.css"/>
+    <asset:stylesheet src="main-style.css"/>
+    <asset:stylesheet src="morris-0.4.3.min.css"/>
+
+ 
 
    </head>
 <body id="selection">
